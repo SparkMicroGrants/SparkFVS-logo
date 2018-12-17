@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Sparkit: Sparkit ACA/Spark Logo",
+    'name': "Sparkit: Sparkit FVS/Spark Logo",
 
     'summary': """
-        Adds Spark MicroGrants/ACA logo to topbar.""",
+        Adds Spark MicroGrants/FVS logo to topbar.""",
 
     'description': """
-        Adds Spark MicroGrants/ACA logo to topbar.
+        Adds Spark MicroGrants/FVS logo to topbar.
     """,
 
     'author': "Spark MicroGrants",
